@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "LDAShiny"]
 	path = LDAShiny
-	url = https://github.com/jdelahoz-m/ldashiny
+	url = https://github.com/cran/LDAShiny
 [submodule "StatisticTeach1"]
 	path = StatisticTeach1
 	url = https://github.com/cran/StatisticTeach1
